@@ -156,5 +156,5 @@ urllib3==2.6.0
     # via
     #   -c requirements.txt
     #   requests
-virtualenv==20.31.2
+virtualenv==20.36.1
     # via pre-commit
