@@ -129,7 +129,7 @@ django-rest-polymorphic==0.1.10
     # via -r requirements.in
 django-silk==5.0.3
     # via -r requirements.in
-django-sns-view==0.1.2
+django-sns-view==1.0.1
     # via -r requirements.in
 djangorestframework==3.15.2
     # via
@@ -488,7 +488,7 @@ wrapt==1.17.2
     # via
     #   deprecated
     #   opentelemetry-instrumentation
-x-wr-timezone==0.0.7
+x-wr-timezone==1.0.1
     # via recurring-ical-events
 zipp==3.23.0
     # via importlib-metadata

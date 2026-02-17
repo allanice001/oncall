@@ -8,13 +8,13 @@ overrides:
   braces: 3.0.3
   micromatch: 4.0.8
   uplot@<1.6.31: '>=1.6.31'
-  send@<0.19.0: '>=0.19.0'
-  path-to-regexp@<0.1.12: '>=0.1.12'
+  send@<0.19.0: '>=1.2.1'
+  path-to-regexp@<0.1.12: '>=1.9.0'
   path-to-regexp@>=2.0.0 <3.3.0: '>=3.3.0'
   prismjs@<1.30.0: '>=1.30.0'
   '@babel/runtime@<7.26.10': '>=7.26.10'
   '@babel/helpers@<7.26.10': '>=7.26.10'
-  cookie@<0.7.0: '>=0.7.0'
+  cookie@<0.7.0: '>=1.1.1'
 
 importers:
 
@@ -147,8 +147,8 @@ importers:
         specifier: ^1.11.0
         version: 1.11.0(prop-types@15.8.1)(react-dom@18.2.0(react@18.2.0))(react@18.2.0)
       react-string-replace:
-        specifier: ^0.4.4
-        version: 0.4.4
+        specifier: ^1.1.1
+        version: 1.1.1
       react-transition-group:
         specifier: ^4.4.5
         version: 4.4.5(react-dom@18.2.0(react@18.2.0))(react@18.2.0)
@@ -5602,8 +5602,8 @@ packages:
       react: ^0.14.0 || ^15.0.0 || ^16.0.0
       react-dom: ^0.14.0 || ^15.0.0 || ^16.0.0
 
-  react-string-replace@0.4.4:
-    resolution: {integrity: sha512-FAMkhxmDpCsGTwTZg7p/2v+/GTmxAp73so3fbSvlAcBBX36ujiGRNEaM/1u+jiYQrArhns+7eE92g2pi5E5FUA==}
+  react-string-replace@1.1.1:
+    resolution: {integrity: sha512-26TUbLzLfHQ5jO5N7y3Mx88eeKo0Ml0UjCQuX4BMfOd/JX+enQqlKpL1CZnmjeBRvQE8TR+ds9j1rqx9CxhKHQ==}
     engines: {node: '>=0.12.0'}
 
   react-table@7.8.0:
@@ -13312,9 +13312,7 @@ snapshots:
       react: 18.2.0
       react-dom: 18.2.0(react@18.2.0)
 
-  react-string-replace@0.4.4:
-    dependencies:
-      lodash: 4.17.21
+  react-string-replace@1.1.1: {}
 
   react-table@7.8.0(react@18.2.0):
     dependencies:
