@@ -246,7 +246,7 @@ kombu==5.5.4
     # via celery
 lxml==5.2.2
     # via -r requirements.in
-markdown==3.8
+markdown==3.8.1
     # via pymdown-extensions
 markdown2==2.4.10
     # via
