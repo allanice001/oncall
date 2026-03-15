@@ -110,7 +110,7 @@ requests==2.32.4
     # via
     #   -c requirements.txt
     #   djangorestframework-stubs
-sqlparse==0.5.3
+sqlparse==0.5.4
     # via
     #   -c requirements.txt
     #   django
