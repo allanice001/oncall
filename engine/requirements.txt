@@ -357,7 +357,7 @@ pymdown-extensions==10.16.1
     # via -r requirements.in
 pymysql==1.1.1
     # via -r requirements.in
-pyopenssl==25.1.0
+pyopenssl==26.0.0
     # via django-sns-view
 pyparsing==3.2.3
     # via httplib2
