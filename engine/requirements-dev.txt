@@ -106,7 +106,7 @@ pyyaml==6.0.2
     # via
     #   -c requirements.txt
     #   pre-commit
-requests==2.32.4
+requests==2.33.0
     # via
     #   -c requirements.txt
     #   djangorestframework-stubs
