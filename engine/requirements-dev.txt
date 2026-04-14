@@ -87,7 +87,7 @@ psutil==5.9.4
     # via
     #   -c requirements.txt
     #   pytest-xdist
-pytest==8.2.2
+pytest==9.0.3
     # via
     #   -r requirements-dev.in
     #   pytest-django
