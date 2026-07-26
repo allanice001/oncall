@@ -2,7 +2,7 @@ module github.com/grafana/grafana-oncall-app
 
 go 1.24.0
 
-toolchain go1.24.13
+toolchain go1.25.12
 
 require github.com/grafana/grafana-plugin-sdk-go v0.271.0
 
