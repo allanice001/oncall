@@ -209,7 +209,7 @@ grpcio-status==1.62.3
     # via google-api-core
 hiredis==2.2.3
     # via -r requirements.in
-httplib2==0.22.0
+httplib2==0.32.0
     # via
     #   google-api-python-client
     #   google-auth-httplib2
