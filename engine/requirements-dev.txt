@@ -6,7 +6,7 @@ asgiref==3.8.1
     #   django
 celery-types==0.18.0
     # via -r requirements-dev.in
-certifi==2025.4.26
+certifi==2026.10.18
     # via
     #   -c requirements.txt
     #   requests

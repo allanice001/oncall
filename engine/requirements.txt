@@ -36,7 +36,7 @@ cachetools==4.2.2
     #   python-telegram-bot
 celery==5.3.6
     # via -r requirements.in
-certifi==2025.4.26
+certifi==2026.10.18
     # via
     #   python-telegram-bot
     #   requests
