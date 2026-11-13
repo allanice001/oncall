@@ -244,7 +244,7 @@ jsonschema-specifications==2025.4.1
     # via jsonschema
 kombu==5.5.4
     # via celery
-lxml==5.2.2
+lxml==6.1.0
     # via -r requirements.in
 markdown==3.8
     # via pymdown-extensions
